@@ -1,6 +1,8 @@
 # react-instant-chat
 A simple Facebook messenger style chat application using socket.io and React
 
+See the tutorial here [https://medium.com/@coderacademy/you-can-build-an-fb-messenger-style-chat-app-with-reactjs-heres-how-intermediate-211b523838ad](https://medium.com/@coderacademy/you-can-build-an-fb-messenger-style-chat-app-with-reactjs-heres-how-intermediate-211b523838ad)
+
 
 To start the app, run:
 ```
